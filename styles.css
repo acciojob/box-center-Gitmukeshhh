@@ -1,4 +1,17 @@
 /*  your css code here. If applicable */
+body{
+
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position:relative;
+     
+}
+
+
+
+
+
 .container{
 
 	background-color:#ADD8E6;
@@ -6,7 +19,10 @@
 	display:inline-block;
 	padding:100px;
 	color:purple;
+    margin-top:20%;
 	
+
+
 	
 	
 }
